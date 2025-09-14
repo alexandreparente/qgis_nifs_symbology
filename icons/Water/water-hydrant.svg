@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Water - Hydrant</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><circle id="path1386" cx="17.008" cy="17.008" r="8.5039" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <circle id="path1446" cx="17.008" cy="17.008" r="7.0866" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <g id="g880" transform="matrix(.2 0 0 .2 21.968 17.295)" stroke-width="0">
+  <rect id="rect437" x="-35.433" y="-14.173" width="21.26" height="34.016" fill="#00f" style="paint-order:markers fill stroke" />
+  <rect id="rect439" x="-39.685" y="21.26" width="29.764" height="5.6279" fill="#00f" style="paint-order:markers fill stroke" />
+  <rect id="rect441" x="-39.685" y="-18.83" width="29.764" height="3.2396" fill="#00f" style="paint-order:markers fill stroke" />
+  <rect id="rect441-3" transform="rotate(90)" x="-9.4657" y="36.933" width="13.262" height="3.2396" fill="#00f" style="paint-order:markers fill stroke" />
+  <rect id="rect441-3-6" transform="rotate(90)" x="-9.4657" y="9.4336" width="13.262" height="3.2396" fill="#00f" style="paint-order:markers fill stroke" />
+  <path id="path556" d="m-24.815-29.764a10.669 10.63 0 0 0-10.618 9.9214h21.26a10.669 10.63 0 0 0-10.642-9.9214z" fill="#00f" style="paint-order:markers fill stroke" />
+  <ellipse id="path759" cx="-24.803" cy="-2.8346" rx="6.3779" ry="6.5474" fill="#f9f9f9" style="paint-order:markers fill stroke" />
+  <ellipse id="path759-3" cx="-24.803" cy="-2.8346" rx="4.9606" ry="5.0925" fill="#00f" style="paint-order:markers fill stroke" />
+ </g>
+</svg>

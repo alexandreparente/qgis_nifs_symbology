@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Rapair - Structure Wrap</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><path id="path423" transform="translate(0 -1.5)" d="m17.008 9.9212 8.0877 5.8761-3.0892 9.5077h-9.997l-3.0892-9.5077z" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ <path id="path423-3" transform="matrix(.90794 0 0 .90794 1.5658 .12151)" d="m17.008 9.9212 8.0877 5.8761-3.0892 9.5077h-9.997l-3.0892-9.5077z" fill="#008000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2488" style="paint-order:markers fill stroke" />
+ <g id="g1236" stroke-linecap="round" stroke-linejoin="round">
+  <rect id="rect1090" x="14.173" y="14.965" width="5.6693" height="5.5866" fill="#fff" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+  <path id="path1092" transform="matrix(.86603 0 0 .5 2.2786 7.1693)" d="m17.008 9.9212 4.9097 8.5039h-9.8195z" fill="#fff" stroke-width="1.7231" style="paint-order:markers fill stroke" />
+  <rect id="rect1167" x="15.591" y="17.799" width="2.8346" height="4.0866" fill="#008000" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ </g>
+</svg>

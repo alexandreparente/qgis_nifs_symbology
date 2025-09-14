@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Air Operation - Airstrip Or Airport</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><circle id="path1386" transform="rotate(90)" cx="17.008" cy="-17.008" r="8.5039" fill="#a900e6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <circle id="path1446" transform="rotate(45)" cx="24.053" cy="1.8163e-7" r="7.0866" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <g id="g209" transform="matrix(.018026 .018026 -.018026 .018026 16.938 6.5227)" fill="#a900e6" fill-rule="evenodd" font-family="'Ubuntu Sans'" font-size="11px" font-weight="400" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1.1503">
+  <path id="path207" d="m516.75 400.36v-52.717l-199.76-120.06v-142.69c0.034-34.958-51.215-34.958-51.274-0.958v143.65l-196.91 120.06v52.717l198.83-65.43v106.65l-45.529 35.944v41.694l70.928-22.047 70.927 22.047v-41.694l-46.009-35.944v-106.65l198.8 65.429" fill="#a900e6" fill-rule="nonzero" stroke-width="1.3231" />
+ </g>
+</svg>

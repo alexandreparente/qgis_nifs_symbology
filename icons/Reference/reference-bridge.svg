@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Reference - Bridge</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><path id="path259" transform="matrix(0 .75 -.75 0 23.386 4.252)" d="m17.008 19.842-9.8195-5.6693-3e-7 -11.339 9.8195-5.6693 9.8195 5.6693v11.339z" fill="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5118" style="paint-order:markers fill stroke" />
+ <path id="path259-1" transform="matrix(0 .75 -.75 0 24.886 4.252)" d="m9.5006 15.507 1.6367 0.94531 1.293-2.2383h9.1562l1.293 2.2383 1.6367-0.94531-1.8398-3.1836h-11.338l-1.8379 3.1836z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5118" style="paint-order:markers fill stroke" />
+ <path id="path259-1-3" d="m20.934 11.377 0.70898 1.2275-1.6787 0.96972v6.8672l1.6787 0.96972-0.70898 1.2275-2.3877-1.3799v-8.5034z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+</svg>

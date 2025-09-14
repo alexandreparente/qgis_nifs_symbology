@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Air Operation - Sling Site</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><circle id="path1386" cx="17.008" cy="17.008" r="8.5039" fill="#a900e6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <text id="text240" x="-17.007854" y="8.5039272" fill="#800080" font-family="'Liberation Sans'" font-size="14.173px" letter-spacing="0px" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:1.2;paint-order:markers fill stroke" xml:space="preserve"><tspan id="tspan238" x="-17.007854" y="8.5039272" stroke-width="3.75" /></text>
+ <path id="path1446" d="m17.008 9.9214a7.0866 7.0866 0 0 0-7.0869 7.0869 7.0866 7.0866 0 0 0 0.51855 2.6162h13.137a7.0866 7.0866 0 0 0 0.51855-2.6162 7.0866 7.0866 0 0 0-7.0869-7.0869z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <path id="path671" transform="matrix(.59623 0 0 1 22.923 17.634)" d="m-9.9212-8.5039 7.3646 12.756-14.729-4e-7z" fill="#a900e6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <path id="path671-2" transform="matrix(.3849 0 0 .64556 20.827 16.88)" d="m-9.9212-8.5039 7.3646 12.756-14.729-4e-7z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+</svg>

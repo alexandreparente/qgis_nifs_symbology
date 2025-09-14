@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Rapair - Culvert</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><path id="path423" transform="translate(0 -1.5)" d="m17.008 9.9212 8.0877 5.8761-3.0892 9.5077h-9.997l-3.0892-9.5077z" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ <path id="path423-3" transform="matrix(.90794 0 0 .90794 1.5658 .12151)" d="m17.008 9.9212 8.0877 5.8761-3.0892 9.5077h-9.997l-3.0892-9.5077z" fill="#008000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2488" style="paint-order:markers fill stroke" />
+ <g id="g1332" transform="translate(-.27165 -1.3734)">
+  <rect id="rect315" x="12.319" y="18.591" width="9.9212" height="1.4173" fill="#fff" stroke-width="0" style="paint-order:markers fill stroke" />
+  <path id="path1267" d="m17.279 15.674a2.876 4.9075 0 0 0-2.8535 4.3345h5.71a2.876 4.9075 0 0 0-2.8564-4.3345z" color="#000000" fill="#008000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4173" style="-inkscape-stroke:none;paint-order:markers fill stroke" />
+  <path id="path1269" d="m17.279 14.965c-1.1209 0-2.0441 0.76337-2.644 1.7871-0.52105 0.8891-0.84648 2.0145-0.92285 3.2563h1.4224c0.07697-1.0104 0.35012-1.9052 0.72217-2.54 0.44095-0.75242 0.95494-1.0854 1.4224-1.0854 0.46742 0 0.98141 0.33303 1.4224 1.0854 0.37204 0.63484 0.64519 1.5297 0.72217 2.54h1.4224c-0.07637-1.2419-0.4018-2.3672-0.92285-3.2563-0.59995-1.0237-1.5231-1.7871-2.644-1.7871z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none;paint-order:markers fill stroke" />
+ </g>
+</svg>

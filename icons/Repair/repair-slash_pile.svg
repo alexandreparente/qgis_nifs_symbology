@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Rapair - Slash Pile</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><path id="path423" transform="translate(0 -1.5)" d="m17.008 9.9212 8.0877 5.8761-3.0892 9.5077h-9.997l-3.0892-9.5077z" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ <path id="path423-3" transform="matrix(.90794 0 0 .90794 1.5658 .12151)" d="m17.008 9.9212 8.0877 5.8761-3.0892 9.5077h-9.997l-3.0892-9.5077z" fill="#008000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2488" style="paint-order:markers fill stroke" />
+ <path id="rect471" d="m16.653 11.312v10.657h0.70898v-10.657z" fill="#fff" stroke-width="0" style="paint-order:markers fill stroke" />
+ <path id="rect471-1" d="m15.79 11.993 4.6523 9.9756h0.78223l-4.6509-9.9756z" fill="#fff" stroke-width="0" style="paint-order:markers fill stroke" />
+ <path id="rect471-9" d="m17.443 11.993-4.6523 9.9756h0.78369l4.6509-9.9756z" fill="#fff" stroke-width="0" style="paint-order:markers fill stroke" />
+</svg>

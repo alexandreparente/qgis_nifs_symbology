@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Air Operation - Unimproved Landing Area</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><circle id="path1386" cx="17.008" cy="17.008" r="8.5039" fill="#a900e6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <circle id="path1446" cx="17.008" cy="17.008" r="7.0866" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <g id="text495" fill="#a900e6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" aria-label="U">
+  <path id="path4441" d="m16.949 21.953q-1.1972 0-2.09-0.43599-0.89275-0.43599-1.3841-1.2665t-0.49136-1.9793v-6.2077h1.3218v6.097q0 1.3357 0.67821 2.0277 0.67821 0.69205 1.9585 0.69205 1.3149 0 2.0415-0.71281 0.73357-0.71973 0.73357-2.0969v-6.007h1.3149v6.0831q0 1.1834-0.5052 2.0416-0.49828 0.85814-1.4187 1.3149-0.91351 0.44983-2.1592 0.44983z" />
+ </g>
+</svg>

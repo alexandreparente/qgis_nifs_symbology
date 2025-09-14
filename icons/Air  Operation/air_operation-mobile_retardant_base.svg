@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Air Operation - Mobile Retardant Base</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><circle id="path1386" cx="17.008" cy="17.008" r="8.5039" fill="#a900e6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <circle id="path1446" cx="17.008" cy="17.008" r="7.0866" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <path id="path1446-6" d="m9.9302 16.925a7.0866 7.0866 0 0 0-0.0087891 0.083496 7.0866 7.0866 0 0 0 7.0869 7.0869 7.0866 7.0866 0 0 0 7.0869-7.0869 7.0866 7.0866 0 0 0-0.002929-0.083496h-14.162z" fill="#f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <text id="text240" x="-17.007854" y="8.5039272" fill="#800080" font-family="'Liberation Sans'" font-size="14.173px" letter-spacing="0px" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:1.2;paint-order:markers fill stroke" xml:space="preserve"><tspan id="tspan238" x="-17.007854" y="8.5039272" stroke-width="3.75" /></text>
+</svg>

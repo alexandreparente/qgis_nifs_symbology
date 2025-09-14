@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Rapair - Invasive Plant</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><path id="path423" transform="translate(0 -1.5)" d="m17.008 9.9212 8.0877 5.8761-3.0892 9.5077h-9.997l-3.0892-9.5077z" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ <path id="path423-3" transform="matrix(.90794 0 0 .90794 1.5658 .12151)" d="m17.008 9.9212 8.0877 5.8761-3.0892 9.5077h-9.997l-3.0892-9.5077z" fill="#008000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2488" style="paint-order:markers fill stroke" />
+ <g id="g1521" transform="translate(.21091 -.034865)" stroke-width="0">
+  <path id="rect315-36" d="m14.913 14.174c2.0615-1.2464 3.7795-0.7559 5.6693-1.1339-0.09784 2.1454 0.28125 3.4016-1.1339 5.6693-1.4339 2.0615-3.4016 2.2677-5.6693 1.1339-1.351-1.9833-0.75886-4.1174 1.1339-5.6693z" fill="#fff" style="paint-order:markers fill stroke" />
+  <path id="rect315-9-2" d="m20.582 13.04c-1.8898 0.37795-3.6069-0.11198-5.6684 1.1344-1.8927 1.5519-2.4854 3.685-1.1344 5.6684l0.0023 0.0012a9.8987 10.02 0 0 1 6.7816-5.8383c5.29e-4 -0.30604 3e-3 -0.62172 0.01875-0.96562z" fill="#008000" style="paint-order:markers fill stroke" />
+  <path id="rect1462" d="m13.781 19.844c-0.30662 0.67855-0.54513 1.3243-0.76641 1.875-0.04809 0.56886 0.54406 0.6617 0.62578 0.39023 0.18871-0.62685 0.45663-1.3142 0.75234-1.9898-0.20105-0.08047-0.40553-0.17237-0.61172-0.27539z" fill="#fff" style="paint-order:markers fill stroke" />
+  <path id="rect315" d="m20.582 13.04c-1.8898 0.37795-3.6069-0.11198-5.6684 1.1344-1.6849 1.3815-2.3356 3.2238-1.5059 5.0109a9.8987 10.02 0 0 1 7.1555-4.732c-7.7e-5 -0.43811-0.0047-0.89921 0.01875-1.4133z" fill="#fff" style="paint-order:markers fill stroke" />
+ </g>
+</svg>

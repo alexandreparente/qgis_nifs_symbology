@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Water - Restricted Water Source</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><circle id="path1386" cx="17.008" cy="17.008" r="8.5039" fill="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <circle id="path1446" cx="17.008" cy="17.008" r="7.0866" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <g id="text495" fill="#a900e6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" aria-label="W">
+  <path id="path4246" d="m20.017 20.908h-1.2623l-1.3509-4.9551q-0.13287-0.46506-0.38755-1.6665-0.14395 0.64222-0.2436 1.0741-0.09966 0.43184-1.5114 5.5475h-1.2623l-2.2976-7.8008h1.1017l1.4007 4.9551q0.24914 0.93012 0.45952 1.9156 0.13287-0.60901 0.3045-1.3287 0.17717-0.71974 1.5391-5.542h1.0132l1.3564 4.8554q0.31004 1.1903 0.4872 2.0153l0.04983-0.19378q0.14948-0.63669 0.2436-1.0353 0.09412-0.40416 1.5557-5.6416h1.1017z" />
+ </g>
+ <path id="path1446-5" d="m22.022 22.016a7.0866 7.0866 0 0 0 0.47129-0.53137l-9.9613-9.9613a7.0866 7.0866 0 0 0-0.5324 0.47025 7.0866 7.0866 0 0 0-0.47025 0.5324l9.9654 9.9654a7.0866 7.0866 0 0 0 0.52722-0.47543z" fill="#f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+</svg>

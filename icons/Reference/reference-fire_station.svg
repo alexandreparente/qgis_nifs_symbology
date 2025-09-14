@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Reference - Fire Station</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><path id="path259" transform="matrix(0 .75 -.75 0 23.386 4.252)" d="m17.008 19.842-9.8195-5.6693-3e-7 -11.339 9.8195-5.6693 9.8195 5.6693v11.339z" fill="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5118" style="paint-order:markers fill stroke" />
+ <path id="path259-2" d="m22.674 12.092-0.54932-0.95068-1.4824 1.4824 0.75 0.75zm-9.2988 9.2988-0.75-0.75-1.2817 1.2817 0.54932 0.95068z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ <path id="path259-6" d="m22.674 21.924-1.2817-1.2817-0.75 0.74854 1.4824 1.4839zm-9.3003-9.3003-1.4824-1.4824-0.54785 0.95068 1.2817 1.2817z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ <g id="text924" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" aria-label="F">
+  <path id="path1469" d="m15.294 13.971v2.9011h4.3516v0.87476h-4.3516v3.1613h-1.0575v-7.8008h5.542v0.86368z" />
+ </g>
+</svg>

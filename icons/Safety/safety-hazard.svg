@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Safety - Hazard</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><path id="path923" transform="matrix(.57735 0 0 .66667 7.1884 2.8346)" d="m17.008 8.5039 7.3313 12.775 7.398 12.737-14.729-0.038502-14.729 0.038501 7.398-12.737z" fill="#f00" style="paint-order:markers fill stroke" />
+ <path id="path923-6" d="m17.008 11.339-3.5273 7.0986-2.8462 5.6587h12.747l-2.8462-5.6587zm7.0679 14.136v0.03809h0.01904z" fill="#ff0" style="paint-order:markers fill stroke" />
+ <g id="text1163" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" aria-label="!">
+  <path id="path1366" d="m17.563 19.857h-1.1142l-0.15502-4.762h1.4242zm-1.2692 2.0637v-1.308h1.3952v1.308z" />
+ </g>
+</svg>

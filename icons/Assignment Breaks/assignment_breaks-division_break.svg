@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Assignment Breaks - Division Break</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><circle id="path2590-0" cx="-45.354" cy="22.854" r="13.996" fill="#00f" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.126" />
+ <path id="rect2536" d="m8.5039 8.5034c2.517 1.9762 4.1323 5.0466 4.1323 8.5049 0 3.4582-1.6153 6.5272-4.1323 8.5034h3.0571c1.9912-2.2757 3.2021-5.2501 3.2021-8.5034 0-3.2539-1.2118-6.229-3.2036-8.5049z" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4173" />
+ <path id="rect2536-2" d="m25.512 8.5039c-2.517 1.9762-4.1323 5.0466-4.1323 8.5049 0 3.4582 1.6153 6.5272 4.1323 8.5034h-3.0571c-1.9912-2.2757-3.2021-5.2501-3.2021-8.5034 0-3.2539 1.2118-6.229 3.2036-8.5049z" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4173" />
+</svg>

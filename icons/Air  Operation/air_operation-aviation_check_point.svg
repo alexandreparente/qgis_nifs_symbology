@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Air Operation - Aviation Check Point</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><circle id="path1386" transform="rotate(45)" cx="24.053" r="8.5039" fill="#a900e6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <circle id="path1446" cx="17.008" cy="17.008" r="7.0866" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <path id="path347" d="m16.774 19.841c-1.034-0.80189-2.93-1.0175-3.9847-0.73719 2.537 0.8148 2.7795 1.7499 3.7395 2.7335l1.9119-0.70778c0.09375-3.9335 1.133-6.362 2.7851-8.9516-0.6732 0.68306-0.95567 0.7289-1.4923 1.3066-2.0542 2.2116-2.2674 3.9967-2.9595 6.3564z" fill="#a900e6" stroke-linecap="square" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+</svg>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Communications - Internet Access</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><rect id="rect5468" transform="rotate(45)" x="18.04" y="-6.0132" width="12.026" height="12.026" fill="#000080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1338" style="paint-order:markers fill stroke" />
+ <path id="path6843-5" d="m17.008 14.007a8.5039 8.5039 0 0 0-6.0425 2.543l0.99902 1.0005a7.0866 7.0866 0 0 1 5.0435-2.1255 7.0866 7.0866 0 0 1 5.0522 2.1182l1.002-1.002a8.5039 8.5039 0 0 0-6.0542-2.5342z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1338" style="paint-order:markers fill stroke" />
+ <path id="path6843-2-7" d="m17.008 16.841a5.6693 5.6693 0 0 0-4.043 1.7095l1.0005 1.0005a4.252 4.252 0 0 1 3.0425-1.292 4.252 4.252 0 0 1 3.0469 1.2876 4.252 4.252 0 0 1 0.001464 0l1.0005-1.002a5.6693 5.6693 0 0 0-4.0488-1.7036z" fill="#fff" style="paint-order:markers fill stroke" />
+ <path id="path6843-22-6" d="m17.008 19.677a2.8346 2.8346 0 0 0-2.042 0.87451l1.0005 1.0005a1.4173 1.4173 0 0 1 1.0415-0.4585 1.4173 1.4173 0 0 1 1.043 0.45703l1.002-1.002a2.8346 2.8346 0 0 0-2.0449-0.87158z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1338" style="paint-order:markers fill stroke" />
+ <ellipse id="path5715-6-4-8-64" transform="rotate(120)" cx="11.595" cy="-26.334" rx="1.063" ry="1.063" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+</svg>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Accountable Property - Water Tank</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><g id="g4767">
+  <rect id="rect3768" x="8.5039" y="8.5039" width="17.008" height="17.008" fill="#000080" style="paint-order:markers fill stroke" />
+  <rect id="rect3770" x="9.9212" y="9.9212" width="14.173" height="14.173" fill="#fff" style="paint-order:markers fill stroke" />
+  <path id="path4242-84" d="m17.004 16.524a5.6693 5.6693 0 0 0-4.7886 2.6528 5.6693 5.6693 0 0 0 4.7886 2.6499 5.6693 5.6693 0 0 0 4.793-2.6602 5.6693 5.6693 0 0 0-4.793-2.6426z" fill="#000080" style="paint-order:markers fill stroke" />
+  <path id="path4242-8-3" d="m12.216 14.914v4.2524h1.415a4.5354 4.5354 0 0 0-0.0088 0.0088 4.5354 4.5354 0 0 0 3.3838 1.5176 4.5354 4.5354 0 0 0 3.3852-1.5176 4.5354 4.5354 0 0 0-0.0088-0.0088h1.415v-4.2524z" fill="#fff" style="paint-order:markers fill stroke" />
+  <path id="path4242" d="m17.004 12.189a5.6693 5.6693 0 0 0-4.7886 2.6528 5.6693 5.6693 0 0 0 4.7886 2.6499 5.6693 5.6693 0 0 0 4.793-2.6602 5.6693 5.6693 0 0 0-4.793-2.6426z" fill="#000080" style="paint-order:markers fill stroke" />
+  <path id="path4242-8" d="m17.006 13.323a4.5354 4.5354 0 0 0-3.3838 1.5176 4.5354 4.5354 0 0 0 3.3838 1.5176 4.5354 4.5354 0 0 0 3.3852-1.5176 4.5354 4.5354 0 0 0-3.3852-1.5176z" fill="#fff" style="paint-order:markers fill stroke" />
+  <rect id="rect4699" x="20.391" y="14.831" width="1.4094" height="4.3352" fill="#000080" style="paint-order:markers fill stroke" />
+  <rect id="rect4699-6" x="12.215" y="14.831" width="1.4094" height="4.3352" fill="#000080" style="paint-order:markers fill stroke" />
+ </g>
+</svg>

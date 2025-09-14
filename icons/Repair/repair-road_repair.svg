@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Rapair - Road Repair</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><path id="path423" transform="translate(0 -1.5)" d="m17.008 9.9212 8.0877 5.8761-3.0892 9.5077h-9.997l-3.0892-9.5077z" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ <path id="path423-3" transform="matrix(.90794 0 0 .90794 1.5658 .12151)" d="m17.008 9.9212 8.0877 5.8761-3.0892 9.5077h-9.997l-3.0892-9.5077z" fill="#008000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2488" style="paint-order:markers fill stroke" />
+ <g id="g2454" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339">
+  <path id="rect2111" d="m17.017 12.838-0.12012 1.418h0.24902l-0.11426-1.418z" style="paint-order:markers fill stroke" />
+  <path id="rect2111-6" d="m16.619 17.508-0.12012 1.418h1.0269l-0.11426-1.418z" style="paint-order:markers fill stroke" />
+  <path id="rect2111-6-1" d="m16.818 15.173-0.12012 1.418h0.63867l-0.11572-1.418z" style="paint-order:markers fill stroke" />
+  <path id="rect2111-6-1-8" d="m16.419 19.843-0.12012 1.4165h1.4165l-0.11572-1.4165z" style="paint-order:markers fill stroke" />
+  <path id="rect2113" d="m15.591 12.756h-1.1307l-1.7039 8.5039h1.4173z" style="paint-order:markers fill stroke" />
+  <path id="rect2113-6" d="m18.425 12.756h1.1307l1.7039 8.5039h-1.4173z" style="paint-order:markers fill stroke" />
+ </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Rapair - Clean Up</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><path id="path423" transform="translate(0 -1.5)" d="m17.008 9.9212 8.0877 5.8761-3.0892 9.5077h-9.997l-3.0892-9.5077z" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ <path id="path423-3" transform="matrix(.90794 0 0 .90794 1.5658 .12151)" d="m17.008 9.9212 8.0877 5.8761-3.0892 9.5077h-9.997l-3.0892-9.5077z" fill="#008000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2488" style="paint-order:markers fill stroke" />
+ <g id="g1969" transform="translate(0 .28346)" fill="#fff" stroke-linecap="round" stroke-linejoin="round">
+  <path id="path1543" d="m13.606 13.182a0.42524 0.42524 0 0 0-0.42188 0.47109l0.84961 7.6535a0.42524 0.42524 0 0 0 0.42305 0.37852h5.1023a0.42524 0.42524 0 0 0 0.42305-0.37852l0.84961-7.6535a0.42524 0.42524 0 0 0-0.42188-0.47109zm0.47578 0.84961h5.8523l-0.75586 6.8039h-4.3406z" color="#000000" style="-inkscape-stroke:none" />
+  <path id="path1543-3" d="m18.014 15.136-0.5102 4.5926c-0.03976 0.35787 0.71915 0.46886 0.77124 0l0.5102-4.5926c0.04514-0.4063-0.72112-0.45118-0.77124 0z" color="#000000" style="-inkscape-stroke:none" />
+  <path id="path1543-3-2" d="m16.03 15.142 0.5102 4.5926c0.03976 0.35787-0.71915 0.46886-0.77124 0l-0.5102-4.5926c-0.04514-0.4063 0.72112-0.45118 0.77124 0z" color="#000000" style="-inkscape-stroke:none" />
+  <path id="rect1693" d="m13.034 13.181h7.9468c0.79468 0 0.79468 0.85039 0 0.85039h-7.9468c-0.79468 0-0.79468-0.85039 0-0.85039z" stroke-width="1.4173" />
+  <path id="rect1866" d="m15.948 12.331h2.126l1.063 0.85039h-4.252z" stroke-width="1.4173" />
+ </g>
+</svg>

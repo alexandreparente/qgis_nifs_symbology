@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Water - Draft Site</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><circle id="path1386" cx="17.008" cy="17.008" r="8.5039" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <circle id="path1446" cx="17.008" cy="17.008" r="7.0866" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <path id="path1446-0" d="m17.049 17.987a2.8346 2.8346 0 0 1-2.209 1.0649 2.8346 2.8346 0 0 1-2.1665-1.0137 2.8346 2.8346 0 0 1-2.168 1.0137 2.8346 2.8346 0 0 1-0.27832-0.024903 7.0866 7.0866 0 0 0 6.7808 5.0684 7.0866 7.0866 0 0 0 6.7925-5.0684 2.8346 2.8346 0 0 1-0.2915 0.024903 2.8346 2.8346 0 0 1-2.1255-0.96094 2.8346 2.8346 0 0 1-2.1255 0.96094 2.8346 2.8346 0 0 1-2.209-1.0649z" fill="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <rect id="rect5287" x="16.157" y="12.756" width="1.7008" height="8.5039" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ <rect id="rect5287-3" transform="rotate(90)" x="12.756" y="-17.858" width="1.7008" height="7.937" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+</svg>

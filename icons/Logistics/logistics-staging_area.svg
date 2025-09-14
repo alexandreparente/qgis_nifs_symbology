@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Logistics - Staging Area</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><rect id="rect418" x="8.5039" y="8.5039" width="17.008" height="17.008" fill="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.4016" style="paint-order:markers fill stroke" />
+ <g id="text500" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" aria-label="s">
+  <path id="path654" d="m21.952 19.671q0 1.6941-1.2844 2.6132-1.2734 0.91904-3.5765 0.91904-2.2367 0-3.4547-0.7308-1.2069-0.74188-1.5723-2.3031l1.7606-0.34326q0.25467 0.96333 1.0519 1.4173 0.79724 0.44291 2.2146 0.44291 1.517 0 2.2146-0.46506 0.70866-0.46506 0.70866-1.3952 0-0.70866-0.4872-1.1516-0.4872-0.44291-1.5723-0.7308l-1.4284-0.37648q-1.7163-0.44291-2.4471-0.86368-0.71973-0.43184-1.1294-1.0408-0.40969-0.609-0.40969-1.4948 0-1.6388 1.1626-2.4914 1.1737-0.86368 3.4104-0.86368 1.982 0 3.1447 0.69759 1.1737 0.69759 1.4838 2.2367l-1.7938 0.22146q-0.16609-0.79724-0.8969-1.218-0.71973-0.43184-1.9377-0.43184-1.3509 0-1.9931 0.40969-0.64222 0.40969-0.64222 1.2402 0 0.50935 0.26575 0.84153t0.78617 0.56471 2.1924 0.64222q1.5834 0.39862 2.281 0.74188 0.69759 0.33218 1.0962 0.74188 0.40969 0.40969 0.63115 0.95226 0.22146 0.5315 0.22146 1.218z" />
+ </g>
+</svg>

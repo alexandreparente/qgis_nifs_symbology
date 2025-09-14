@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Assignment Breaks - Branch Break</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><rect id="rect2166" x="12.756" y="8.5039" width="2.126" height="17.008" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4173" />
+ <rect id="rect2230" x="8.5039" y="8.5039" width="6.3779" height="2.126" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4173" />
+ <rect id="rect2256" x="8.5039" y="23.386" width="6.3779" height="2.126" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4173" />
+ <rect id="rect2166-1" transform="scale(-1,1)" x="-21.26" y="8.5039" width="2.126" height="17.008" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4173" />
+ <rect id="rect2230-2" transform="scale(-1,1)" x="-25.512" y="8.5039" width="6.3779" height="2.126" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4173" />
+ <rect id="rect2256-7" transform="scale(-1,1)" x="-25.512" y="23.386" width="6.3779" height="2.126" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4173" />
+</svg>

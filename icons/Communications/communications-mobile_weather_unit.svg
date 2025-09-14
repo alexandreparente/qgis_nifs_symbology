@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Communications - Mobile Weather Unit</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><rect id="rect5468" transform="rotate(45)" x="18.04" y="-6.0132" width="12.026" height="12.026" fill="#000080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1338" style="paint-order:markers fill stroke" />
+ <path id="rect5952" d="m16.441 17.008-2.3364 1.3491 0.28271 0.49072 3.1875-1.8398z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ <g id="g6253" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339">
+  <ellipse id="path5715" cx="17.008" cy="12.756" rx="1.4173" ry="1.4173" style="paint-order:markers fill stroke" />
+  <rect id="rect5776" x="16.724" y="13.819" width=".56693" height="8.8583" style="paint-order:markers fill stroke" />
+ </g>
+ <path id="rect5774" d="m16.299 16.967c0-1.1105 1.4173-1.1105 1.4173 0v5.5862c0 1.1105-1.4173 1.1105-1.4173 0z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ <ellipse id="path5715-6" transform="rotate(120)" cx="6.2012" cy="-27.254" rx="1.4173" ry="1.4173" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ <path id="rect5776-8" d="m16.49 17.008 2.9502 1.7036 0.28272-0.49219-2.0991-1.2114z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ <ellipse id="path5715-0" transform="rotate(240)" cx="-23.209" cy="2.015" rx="1.4173" ry="1.4173" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+</svg>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Air Operation - Aerial Hazard</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><circle id="path1386" transform="rotate(45)" cx="24.053" cy="1.7764e-15" r="8.5039" fill="#a900e6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <circle id="path1446" cx="17.008" cy="17.008" r="7.0866" fill="#ff0" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <path id="path1386-6" d="m17.008 9.9214-6.9258 11.996a8.5039 8.5039 0 0 0 0.9126 1.1045 8.5039 8.5039 0 0 0 12.026 1e-6 8.5039 8.5039 0 0 0 0.91992-1.0913z" fill="#a900e6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <path id="path1446-5" d="m17.008 12.921-5.1577 8.9326a7.0866 7.0866 0 0 0 5.1577 2.2412 7.0866 7.0866 0 0 0 5.1577-2.2412z" fill="#ff0" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+ <circle id="path578" cx="17.008" cy="20.008" r="2.126" fill="#d40000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:markers fill stroke" />
+</svg>

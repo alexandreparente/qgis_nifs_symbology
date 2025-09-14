@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Communications - Repeater</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><rect id="rect5468" transform="rotate(45)" x="18.04" y="-6.0132" width="12.026" height="12.026" fill="#000080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1338" style="paint-order:markers fill stroke" />
+ <circle id="path399-7-5" cx="17.008" cy="17.008" r="4.9606" fill="#fff" stroke-width="0" style="paint-order:markers fill stroke" />
+ <circle id="path399-7" cx="17.008" cy="17.008" r="3.5433" fill="#000080" stroke-width="0" style="paint-order:markers fill stroke" />
+ <rect id="rect5468-3" transform="rotate(45)" x="18.04" y="-6.0132" width="6.0132" height="6.0132" fill="#000080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1338" style="paint-order:markers fill stroke" />
+ <rect id="rect5468-3-5" transform="rotate(45)" x="24.053" y="3.4235e-6" width="6.0132" height="6.0132" fill="#000080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1338" style="paint-order:markers fill stroke" />
+ <circle id="path399" cx="17.008" cy="17.008" r="2.126" fill="#fff" stroke-width="0" style="paint-order:markers fill stroke" />
+</svg>

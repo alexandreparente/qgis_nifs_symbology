@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Reference - Other</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><path id="path259" transform="matrix(0 .75 -.75 0 23.386 4.252)" d="m17.008 19.842-9.8195-5.6693-3e-7 -11.339 9.8195-5.6693 9.8195 5.6693v11.339z" fill="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5118" style="paint-order:markers fill stroke" />
+</svg>

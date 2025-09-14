@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Rapair - Landing Or Log Deck</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><path id="path423" transform="translate(0 -1.5)" d="m17.008 9.9212 8.0877 5.8761-3.0892 9.5077h-9.997l-3.0892-9.5077z" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+ <path id="path423-3" transform="matrix(.90794 0 0 .90794 1.5658 .12151)" d="m17.008 9.9212 8.0877 5.8761-3.0892 9.5077h-9.997l-3.0892-9.5077z" fill="#008000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2488" style="paint-order:markers fill stroke" />
+ <g id="g1637" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1339">
+  <circle id="path1444" cx="13.89" cy="19.276" r="1.4173" style="paint-order:markers fill stroke" />
+  <circle id="path1444-5" cx="17.008" cy="19.276" r="1.4173" style="paint-order:markers fill stroke" />
+  <circle id="path1444-5-3" cx="20.126" cy="19.276" r="1.4173" style="paint-order:markers fill stroke" />
+  <circle id="path1444-5-3-5" cx="15.449" cy="16.157" r="1.4173" style="paint-order:markers fill stroke" />
+  <circle id="path1444-5-3-5-6" cx="18.567" cy="16.157" r="1.4173" style="paint-order:markers fill stroke" />
+  <circle id="path1444-5-3-5-6-2" cx="17.008" cy="13.039" r="1.4173" style="paint-order:markers fill stroke" />
+ </g>
+</svg>

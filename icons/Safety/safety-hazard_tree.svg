@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="12mm" height="12mm" version="1.2" viewBox="0 0 34.016 34.016">
+ <title>Safety - Hazard Tree</title><desc>Adapted from Poster 2025 – National Incident Feature Service (NIFS) Symbology. This is an unofficial adaptation for use in QGIS</desc><g id="g590">
+  <path id="path923" transform="matrix(.57735 0 0 .66667 7.1884 2.8346)" d="m17.008 8.5039 7.3313 12.775 7.398 12.737-14.729-0.038502-14.729 0.038501 7.398-12.737z" fill="#f00" style="paint-order:markers fill stroke" />
+  <path id="path923-6" d="m17.008 11.339-3.5273 7.0986-2.8462 5.6587h12.747l-2.8462-5.6587zm7.0679 14.136v0.03809h0.01904z" fill="#ff0" style="paint-order:markers fill stroke" />
+  <g id="g580" transform="translate(28.063 6.2832)" stroke-linecap="round" stroke-linejoin="round">
+   <path id="path502" transform="matrix(.69282 0 0 .54601 3.6741 4.3399)" d="m-21.26 7.0866 1.2219 2.1292 1.233 2.1228-2.4549-0.0064-2.4549 0.0064 1.233-2.1228z" stroke-width="1.8435" style="paint-order:markers fill stroke" />
+   <path id="path502-3" transform="matrix(.46188 0 0 .3641 -1.2356 4.7654)" d="m-21.26 7.0866 1.2219 2.1292 1.233 2.1228-2.4549-0.0064-2.4549 0.0064 1.233-2.1228z" stroke-width="2.765" style="paint-order:markers fill stroke" />
+   <path id="path506" transform="matrix(.61584 0 0 .48519 2.0375 4.8501)" d="m-21.26 9.9212 1.8328 3.1938 1.8495 3.1842-3.6823-0.0096-3.6823 0.0096 1.8495-3.1842z" stroke-width="2.0743" style="paint-order:markers fill stroke" />
+   <path id="path508" transform="matrix(.57735 0 0 .45409 1.2193 4.6823)" d="m-21.26 14.173 2.4438 4.2584 2.466 4.2455-4.9097-0.01283-4.9097 0.01283 2.466-4.2455z" stroke-width="2.2145" style="paint-order:markers fill stroke" />
+   <rect id="rect512" x="-11.622" y="12.856" width="1.1339" height="4.2477" stroke-width="1.1339" style="paint-order:markers fill stroke" />
+  </g>
+ </g>
+</svg>
